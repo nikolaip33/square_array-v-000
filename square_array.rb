@@ -1,3 +1,3 @@
 def square_array(array)
-  array.collect(:+)
+  array.collect(:+2)
 end
